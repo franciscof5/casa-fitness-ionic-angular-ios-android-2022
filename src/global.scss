@@ -24,3 +24,20 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+/*
+cor sec: #99FE00
+cor fonte: #030262
+*/
+
+.inner-scroll {
+    background-color:#1E91BD;
+}
+
+.toolbar-container {
+    background-color: #99FE00;
+}
+.toolbar-title {
+    color: #030262;
+    font-weight: 600;
+}
